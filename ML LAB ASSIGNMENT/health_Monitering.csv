@@ -1,0 +1,3 @@
+,Patient_ID,Age,Weight,BloodPressure,Cholesterol,Gender
+0,101,25.0,58.0,120.0,200.0,Male
+5,106,50.0,90.0,150.0,250.0,Male
